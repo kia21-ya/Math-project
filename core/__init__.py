@@ -1,1 +1,0 @@
-"""Core math engine: parsing, calculus, and numeric evaluation."""
